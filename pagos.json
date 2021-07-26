@@ -1,0 +1,19 @@
+ [
+    {
+        "tipo": "Efectivo",
+        "beneficio": "15% off"
+    },
+    {
+        "tipo": "Transferencia",
+        "beneficio": "10% off"
+    },
+    {
+        "tipo": "Tarjetas de Credito",
+        "beneficio": "3 y 6 cuotas sin interes"
+    },
+    {
+        "tipo": "Mercado Pago",
+        "beneficio": "15% de recargo"
+    }
+
+]
